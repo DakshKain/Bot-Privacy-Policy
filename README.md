@@ -33,6 +33,6 @@
 - Contact us to remove your data
 
 ## Contact
-- [Support Server](https://discord.gg/mV8vTc5Yq8)
+- [Support Server](https://discord.gg/GJXzMyjKgM)
 
 **Thank you for using our service**
